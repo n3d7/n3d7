@@ -1,5 +1,3 @@
-# n3
-
 Interested in AI, systems & security.  
 Turning ideas into working projects.
 
