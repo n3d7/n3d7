@@ -1,16 +1,22 @@
-## Hi there 👋
+# n3
 
-<!--
-**n3d7/n3d7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in AI, systems & security.  
+Turning ideas into working projects.
 
-Here are some ideas to get you started:
+## Currently building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### → Halquen
+Secure execution sandbox for AI agents.
+
+### → Chronlyt
+Local-first desktop system for tracking work, focus and long-term progress.
+
+## Exploring
+
+AI agents · sandboxing · Linux · Rust · security
+
+## Identity
+
+```text
+$ gpg --fingerprint n3
+522A 2F79 156C B329 6CCB F408 BEA7 2198 87E7 4B2D
