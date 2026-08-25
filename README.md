@@ -1,19 +1,19 @@
 Interested in AI, systems & security.  
 Turning ideas into working projects.
 
-## Currently building
+# Currently building
 
-### → Halquen
+## → Halquen
 Secure execution sandbox for AI agents.
 
-### → Chronlyt
+## → Chronlyt
 Local-first desktop system for tracking work, focus and long-term progress.
 
-## Exploring
+# Exploring
 
 AI agents · sandboxing · Linux · Rust · security
 
-## Identity
+# Identity
 
 ```text
 $ gpg --fingerprint n3
