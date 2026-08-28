@@ -11,7 +11,7 @@ Local-first desktop system for tracking work, focus and long-term progress.
 
 ### Exploring
 
-AI agents · sandboxing · Linux · Rust · security
+AI agents · sandboxing · Linux · security
 
 ### Identity
 
