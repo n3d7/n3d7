@@ -4,7 +4,7 @@ Turning ideas into working projects.
 ### Currently building
 
 → Halquen
-Secure execution sandbox for AI agents.
+Policy-controlled execution runtime for AI agents.
 
 → Chronlyt
 A local-first desktop workspace you shape around your own workflows.
