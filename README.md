@@ -7,7 +7,7 @@ Turning ideas into working projects.
 Secure execution sandbox for AI agents.
 
 → Chronlyt
-Local-first desktop system for tracking work, focus and long-term progress.
+A local-first desktop workspace you shape around your own workflows.
 
 ### Exploring
 
