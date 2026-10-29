@@ -3,15 +3,6 @@ Turning ideas into working projects.
 
 ### Currently building
 
-→ Halquen
-Policy-controlled execution runtime for AI agents.
-
-→ Chronlyt
-A local-first desktop workspace you shape around your own workflows.
-
-→ Refolith
-Indexes Python codebases into structured, queryable context for AI agents.
-
 ### Exploring
 
 AI agents · sandboxing · Linux · security
